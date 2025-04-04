@@ -1,0 +1,11 @@
+node_modules
+dist
+*.env
+.env
+
+# SQLite database
+*.sqlite
+*.db
+
+# Local uploads
+public/uploads/
