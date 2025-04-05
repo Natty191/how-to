@@ -7,5 +7,6 @@ dist
 *.sqlite
 *.db
 
+
 # Local uploads
 public/uploads/
